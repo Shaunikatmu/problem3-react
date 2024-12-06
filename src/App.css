@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    background-color: #f4f4f9;
+    color: #333;
+    padding: 20px;
+}
+
+.App-header {
+    background-color: #282c34;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+h1 {
+    color: lightblue;
+}
+
+h2 {
+    margin-top: 20px;
+    color: yellow;
+}
